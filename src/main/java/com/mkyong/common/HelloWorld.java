@@ -4,6 +4,7 @@ package com.mkyong.common;
  * Hello sarath this is your first project :)
  *
  */
+
 public class HelloWorld 
 {
 	private String name;
@@ -14,5 +15,6 @@ public class HelloWorld
 	
 	public void printHello() {
 		System.out.println("Hello ! " + name);
+		System.out.println("hii tony");
 	}
 }
